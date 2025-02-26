@@ -14,6 +14,6 @@ den_3= ((int(dinero) % mon_3) % mon_2) // mon_1
 print(f"Desgloce de {dinero} U:")
 print(f" {den_1} monedas de {mon_3} U")
 print(f" {den_2} monedas de {mon_2} U")
-print(f" {den_3} monedas de {mon_3} U")
+print(f" {den_3} monedas de {mon_1} U")
 
 
