@@ -16,5 +16,5 @@ convierta la edad en un número…)
 
 nombre = input("Dime tu nombre: ")
 edad = input("Dime tu edad: ")
-next_age = edad+1
-print(f"Hola {nombre} , pronto cumplirás + {str(next_age)} + años" )
+next_age = int(edad)+1
+print(f"Hola {nombre} , pronto cumplirás {next_age} años")
