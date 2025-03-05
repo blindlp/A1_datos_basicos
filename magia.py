@@ -12,3 +12,6 @@ print("Ahora dime el resultado obtenido: 68")
 print("Ahora adivinare los numeros de los dados. Dejame pensar....")
 print("Los numero de los datos fueron 4 y 3")
 print("Hasta Otra")
+
+
+
